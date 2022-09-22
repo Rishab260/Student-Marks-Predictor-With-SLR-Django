@@ -1,5 +1,5 @@
 # StudentMarksPredictor
-SLR Model to predict the marks of students based on their study hours per day.
+SLR Model to predict the result of students based on their study hours per day.
 Live Project Link: https://rishab360.pythonanywhere.com/
 
 ![Screenshot (8)](https://user-images.githubusercontent.com/90474550/191804543-054e815c-86e3-45ea-a444-16b34c1b69e0.png)
